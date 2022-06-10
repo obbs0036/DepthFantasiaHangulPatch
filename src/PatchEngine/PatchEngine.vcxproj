@@ -152,6 +152,7 @@
     <ClCompile Include="engine.cpp" />
     <ClCompile Include="hook.cpp" />
     <ClCompile Include="log.cpp" />
+    <ClCompile Include="talken.cpp" />
     <ClCompile Include="trans.cpp" />
     <ClCompile Include="unzip.cpp" />
   </ItemGroup>
@@ -160,6 +161,7 @@
     <ClInclude Include="engine.h" />
     <ClInclude Include="hook.h" />
     <ClInclude Include="log.h" />
+    <ClInclude Include="talken.h" />
     <ClInclude Include="trans.h" />
     <ClInclude Include="unzip.h" />
   </ItemGroup>
